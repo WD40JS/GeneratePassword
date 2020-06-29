@@ -7,4 +7,4 @@ Alerts now ask if you would like lowercase letters.
 Alerts now ask if you would like Uppercase letters. 
 Those inputs are taken into account and randomly generated.
 The output is now displayed. 
-These are done through javascript functions using a while loop. 
+These are done through javascript functions using a while loop.
